@@ -1,6 +1,6 @@
 module github.com/phil-inc/goweb
 
-go 1.22.4
+go 1.21
 
 require (
 	github.com/justinas/alice v1.2.0 // indirect
